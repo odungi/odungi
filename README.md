@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odungi&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=odungi&show_icons=true">
 
 <!---
